@@ -200,7 +200,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.0
-  [[highlight]]english_words: ^3.1.0[[/highlight]]
+  [[highlight]]english_words: ^4.0.0[[/highlight]]
 {% endprettify %}
 </li>
 
